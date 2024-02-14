@@ -1,0 +1,14 @@
+C:\Users\Nastya\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.AssemblyReference.cache
+C:\Users\Nastya\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nastya\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\Nastya\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+C:\Users\Nastya\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+C:\Users\Nastya\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+C:\Users\Nastya\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\nunit.framework.dll
+C:\Users\Nastya\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\nunit.framework.legacy.dll
+C:\Users\Nastya\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Nastya\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\nunit.framework.xml
+C:\Users\Nastya\source\repos\ConsoleApp9\ConsoleApp9\bin\Debug\nunit.framework.legacy.xml
+C:\Users\Nastya\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CopyComplete
+C:\Users\Nastya\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+C:\Users\Nastya\source\repos\ConsoleApp9\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
